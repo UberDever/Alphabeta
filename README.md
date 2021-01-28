@@ -1,5 +1,5 @@
 # Alphabeta
-![Logo](https://github.com/UberDever/Alphabeta/Alphabeta.png)
+![Logo](https://github.com/UberDever/Alphabeta/blob/master/Alphabeta.png)
 
 ![License](https://img.shields.io/github/license/UberDever/Alphabeta)
 
@@ -21,4 +21,4 @@ some not implemented at all. Regardless of that, Alphabeta is used across some o
 [Spicy](https://github.com/UberDever/spicy) and [Ind3d](https://github.com/UberDever/ind3d).
 This project has given me the useful experience and basic understanding of engine/framework developing
 
-![We can](https://github.com/UberDever/Alphabeta/Graphics.png)
+![We can](https://github.com/UberDever/Alphabeta/blob/master/Graphics.png)
